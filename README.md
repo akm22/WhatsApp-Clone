@@ -16,7 +16,7 @@ To set up the WhatsApp-Clone app on your local machine, follow these steps:
 2. Change into the project directory
 
 ### Install dependencies
-yarn install
+`yarn install`
 
 ### Running the app 
-yarn start
+`yarn start`
